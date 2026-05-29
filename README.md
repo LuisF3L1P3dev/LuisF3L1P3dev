@@ -31,9 +31,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisF3L1P3dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisF3L1P3dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisF3L1P3dev&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+  <!-- Stats Graph -->
+  <img src="https://streak-stats.demolab.com?user=LuisF3L1P3dev&theme=radical" height="150" alt="streak stats" />
+  
+  <!-- Languages Graph -->
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisF3L1P3dev&theme=nord_dark" height="150" alt="repos per language" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisF3L1P3dev&radius=16&theme=radical&area=true&order=5&cache_seconds=86400" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
